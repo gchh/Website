@@ -12,4 +12,6 @@ https://services.github.com/on-demand/downloads/zh_CN/github-git-cheat-sheet   
 https://guides.github.com/features/mastering-markdown/   Mastering Markdown · GitHub Guides  
 http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue6/a-guide-to-pythons-magic-methods.html  Python 魔术方法指南  
 http://blog.jobbole.com/21351/  深刻理解Python中的元类(metaclass) - 文章 - 伯乐在线  
-http://open.aliplus.com/docs/open/?spm=0.0.0.0.c1sZTl   平台概述 | 阿里智能APP
+http://open.aliplus.com/docs/open/?spm=0.0.0.0.c1sZTl   平台概述 | 阿里智能APP  
+https://segmentfault.com/a/1190000007460181   Python: 陌生的 metaclass - Keep Going - SegmentFault  
+
